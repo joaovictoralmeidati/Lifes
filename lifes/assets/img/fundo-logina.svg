@@ -1,0 +1,36 @@
+<svg width="1366" height="769" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" stroke="null">
+ <defs stroke="null">
+  <linearGradient gradientUnits="objectBoundingBox" y2="1.389" x2="-0.717" y1="0.101" x1="1.193" id="linear-gradient" stroke="null">
+   <stop stop-color="#a52eff" offset="0" stroke="null"/>
+   <stop stop-color="#6747f8" offset="0.498" stroke="null"/>
+   <stop stop-color="#6049f7" offset="0.647" stroke="null"/>
+   <stop stop-color="#4c51f4" offset="0.863" stroke="null"/>
+   <stop stop-color="#3d58f3" offset="1" stroke="null"/>
+  </linearGradient>
+  <linearGradient gradientUnits="objectBoundingBox" y2="1.068" x2="0.189" y1="0.022" x1="1.171" id="linear-gradient-2" stroke="null">
+   <stop stop-opacity="0.6" stop-color="#fff" offset="0" stroke="null"/>
+   <stop stop-opacity="0.051" stop-color="#fff" offset="0.686" stroke="null"/>
+   <stop stop-opacity="0" stop-color="#fff" offset="1" stroke="null"/>
+  </linearGradient>
+  <linearGradient xlink:href="#linear-gradient" y2="1.476" x2="0.209" y1="0.078" x1="0.699" id="linear-gradient-3" stroke="null"/>
+  <linearGradient xlink:href="#linear-gradient-2" y2="0.5" x2="1" y1="0.5" x1="0" id="linear-gradient-6" stroke="null"/>
+ </defs>
+ <g stroke="null">
+  <title stroke="null">Layer 1</title>
+  <path transform="rotate(179.924 364.433 466.879)" stroke="null" fill="#073b4c" d="m22.57174,1100.472l1050.22817,0l0,-1267.1854l-1123.71988,0c-66.09843,32.03391 -156.60924,89.42638 -217.95111,185.38148c-89.69085,140.28352 -111.38881,354.10829 3.88608,431.73287c131.68971,88.67826 288.0765,10.10872 412.37293,87.79592c139.38999,87.12106 207.09629,289.31944 46.18514,454.34191c-49.82933,51.10102 -110.62131,85.19309 -171.00136,107.93322l0.00003,0z" id="Path_2"/>
+  <path fill="url(#linear-gradient-2)" opacity="0.3" d="m339.39039,181c15.286,107.84 67.584,118.235 80,206c17.149,121.223 -59.333,264.966 -124,264c-47.963,-0.716 -26.671,-130.619 -132,-228c-77.4,-71.562 -197.516,-104.326 -228,-70c-5.268,5.932 -7.568,13.54 -7.932,22.159c36.815,-9.023 72.151,-14.765 99.432,5.341c51.19,37.726 69.442,135.081 45.617,224.144a994.57,994.57 0 0 1 72.883,80.356c31.9,39.344 47.912,65.3 60.586,84l269.414,0l0,-769l-109.987,0c-33.066,44.995 -33.504,128.156 -26.013,181z" id="Path_3" transform="rotate(176.592 201.424 384.5)" stroke="null"/>
+  <path fill="#0E353B" opacity="0.14" d="m1330.52343,-31.13316c3.09,-22 13.84969,-13.24728 -32.10031,-27.99328c-13.042,-4.185 -88.4,-28.369 -114.082,36.36c-5.543,13.973 -0.08409,28.9781 14.18589,48.60006c14.26998,19.62197 40.67809,3.70003 106.80009,-19.33297c69.707,-24.274 23.30433,-24.15982 25.19633,-37.63382l0,0.00001z" id="Path_4" transform="rotate(-123.599 1263.06 -16.1583)" stroke="null"/>
+  <path transform="rotate(178.01 1178.88 152.039)" stroke="null" fill="#073b4c" d="m1100.95778,89.28598c-178.34255,-96.32847 -294.67852,-448.6625 -365.54053,2.72019l0,344.69749l886.92983,0c-69.90275,-541.06362 -334.54123,-246.4928 -521.3893,-347.41767l0,-0.00002z" id="Path_5"/>
+  <circle opacity="0.2" fill="#fff" r="16.94523" cy="350.50427" cx="98.42446" id="Ellipse_1" transform="rotate(-4.95592 98.4245 350.504)" stroke="null"/>
+  <circle opacity="0.12" fill="#fff" r="3" cy="365" cx="1001.43402" id="Ellipse_2" stroke="null"/>
+  <circle opacity="0.2" fill="#fff" r="12.00165" cy="728.00278" cx="306.42571" id="Ellipse_3" stroke="null"/>
+  <circle opacity="0.13" fill="#fff" r="12.00036" cy="84.01204" cx="1181.43885" id="Ellipse_4" stroke="null"/>
+  <path transform="rotate(-12.9805 833.934 -27.632)" fill="url(#linear-gradient-6)" opacity="0.3" d="m915.08347,48.75692c27.106,-49.532 13.91,-119.492 -20,-138c-25.707,-14.031 -48.9,9.377 -72,-6c-22.227,-14.8 -19.04,-48.639 -19.675,-73.317aNaN,NaN  0 0 -28.825,42.817c-18.479,34.08 -31.341,75.311 -36.327,115.529aNaN,NaN  0 0 22.827,31.971c20.979,43.72 3.722,69.376 23,84c27.767,21.064 101.612,-3.3 131,-57z" id="Path_7" stroke="null"/>
+  <path id="svg_1" d="m1000.68898,746.33834l0.56913,0l0.17587,-0.54067l0.17587,0.54067l0.56913,0l-0.46044,0.33415l0.17588,0.54067l-0.46044,-0.33416l-0.46044,0.33416l0.17588,-0.54067l-0.46044,-0.33415z" opacity="undefined" fill-opacity="null" stroke-opacity="null" stroke-dasharray="null" stroke-width="null" fill="url(#linear-gradient-3)" stroke="null"/>
+  <path id="svg_2" d="m1000.68903,400.07554l0.56913,0l0.17587,-0.54067l0.17587,0.54067l0.56913,0l-0.46044,0.33415l0.17588,0.54067l-0.46044,-0.33416l-0.46044,0.33416l0.17588,-0.54067l-0.46044,-0.33415z" opacity="undefined" fill-opacity="null" stroke-opacity="null" stroke-dasharray="null" stroke-width="null" fill="url(#linear-gradient-3)" stroke="null"/>
+  <path id="svg_3" d="m1000.68902,-27.77789l0.56913,0l0.17587,-0.54067l0.17587,0.54067l0.56913,0l-0.46044,0.33415l0.17588,0.54067l-0.46044,-0.33416l-0.46044,0.33416l0.17588,-0.54067l-0.46044,-0.33415z" opacity="undefined" fill-opacity="null" stroke-opacity="null" stroke-dasharray="null" stroke-width="null" fill="url(#linear-gradient-3)" stroke="null"/>
+  <path transform="rotate(-93.3583 912.489 -240.959)" fill="#073b4c" d="m891.50879,-256.38542c-48.0144,-23.67967 -79.33502,-110.2912 -98.4129,0.66868l0,84.7343l238.78428,0c-18.81962,-133.00545 -90.06709,-60.5934 -140.37139,-85.40298l0.00001,0z" id="svg_4" stroke="null"/>
+  <path fill="url(#linear-gradient-6)" opacity="0.3" d="m1444.58558,33.01017c27.106,-49.532 13.91,-119.492 -20,-138c-25.707,-14.031 -48.9,9.377 -72,-6c-22.227,-14.8 -19.04,-48.639 -19.675,-73.317a271.263,271.263 0 0 0 -28.825,42.817c-18.479,34.08 -31.341,75.311 -36.327,115.529a108.1,108.1 0 0 1 22.827,31.971c20.979,43.72 3.722,69.376 23,84c27.767,21.064 101.612,-3.3 131,-57z" id="svg_5" stroke="null" transform="rotate(-12.9805 1363.44 -43.3789)"/>
+  <circle opacity="0.2" fill="#fff" r="0.00171" cy="106.0061" cx="1304.42029" id="svg_6" stroke="null"/>
+ </g>
+</svg>

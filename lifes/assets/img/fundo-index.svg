@@ -1,0 +1,35 @@
+<svg width="1366" height="769" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient gradientUnits="objectBoundingBox" y2="1.389" x2="-0.717" y1="0.101" x1="1.193" id="linear-gradient">
+   <stop stop-color="#a52eff" offset="0"/>
+   <stop stop-color="#6747f8" offset="0.498"/>
+   <stop stop-color="#6049f7" offset="0.647"/>
+   <stop stop-color="#4c51f4" offset="0.863"/>
+   <stop stop-color="#3d58f3" offset="1"/>
+  </linearGradient>
+  <linearGradient gradientUnits="objectBoundingBox" y2="1.068" x2="0.189" y1="0.022" x1="1.171" id="linear-gradient-2">
+   <stop stop-opacity="0.6" stop-color="#fff" offset="0"/>
+   <stop stop-opacity="0.051" stop-color="#fff" offset="0.686"/>
+   <stop stop-opacity="0" stop-color="#fff" offset="1"/>
+  </linearGradient>
+  <linearGradient xlink:href="#linear-gradient" y2="1.476" x2="0.209" y1="0.078" x1="0.699" id="linear-gradient-3"/>
+  <linearGradient xlink:href="#linear-gradient-2" y2="0.5" x2="1" y1="0.5" x1="0" id="linear-gradient-6"/>
+ </defs>
+ <g>
+  <title>Layer 1</title>
+  <path transform="rotate(40.741 1444.17 769.433)" stroke="null" fill="#073b4c" d="m899.57689,1830.21882l1673.03024,0l0,-2121.57088l-1790.1037,0c-105.29584,53.63243 -249.48101,149.72109 -347.19959,310.37285c-142.87896,234.86811 -177.44414,592.8618 6.19059,722.82389c209.78384,148.46857 544.86532,-113.51369 742.87153,16.55321c222.0505,145.86144 243.95282,614.82792 -12.3812,891.11495c-79.37892,85.55531 -176.22151,142.63356 -272.40788,180.70598l0.00003,0z" id="Path_2"/>
+  <path fill="url(#linear-gradient-2)" opacity="0.3" d="m1255,187.25c15.286,107.84 67.584,118.235 80,206c17.149,121.223 -59.333,264.966 -124,264c-47.963,-0.716 -26.671,-130.619 -132,-228c-77.4,-71.562 -197.516,-104.326 -228,-70c-5.268,5.932 -7.568,13.54 -7.932,22.159c36.815,-9.023 72.151,-14.765 99.432,5.341c51.19,37.726 69.442,135.081 45.617,224.144a994.57,994.57 0 0 1 72.883,80.356c31.9,39.344 47.912,65.3 60.586,84l269.414,0l0,-769l-109.987,0c-33.066,44.995 -33.504,128.156 -26.013,181z" id="Path_3"/>
+  <path fill="#0E353B" opacity="0.14" d="m1040.42638,940.8694c3.09,-22 -44.15,-65.247 -90.1,-79.993c-13.042,-4.185 -88.4,-28.369 -114.082,36.36c-5.543,13.973 -16.084,46.978 -5.814,60.6c9.575,12.7 56.678,9.7 122.8,-13.333c69.707,-24.274 85.304,9.84 87.196,-3.634z" id="Path_4"/>
+  <path fill="#073b4c" d="m210.49981,668.50006c-114.359,-14.23 -240.6,29.614 -302.5,77.58l0,50.92l568.728,0c-85.86,-40.69 -146.415,-113.591 -266.228,-128.5z" id="Path_5"/>
+  <path fill="#A4FFFF" opacity="0.19" d="m254.00052,837.83734l0,79.163l523.728,0c-85.86,-40.69 -146.415,-113.591 -266.228,-128.5c-91.15,-11.342 -189.849,14.21 -257.5,49.337z" id="Path_6"/>
+  <circle opacity="0.2" fill="#fff" r="11.5" cy="86.5" cx="1107.5" id="Ellipse_1"/>
+  <circle opacity="0.12" fill="#fff" r="3" cy="365" cx="752" id="Ellipse_2"/>
+  <circle opacity="0.2" fill="#fff" r="8" cy="412" cx="1126" id="Ellipse_3"/>
+  <circle opacity="0.13" fill="#fff" r="7" cy="42" cx="782" id="Ellipse_4"/>
+  <path fill="url(#linear-gradient-6)" opacity="0.3" d="m809.50005,183.50006c27.106,-49.532 13.91,-119.492 -20,-138c-25.707,-14.031 -48.9,9.377 -72,-6c-22.227,-14.8 -19.04,-48.639 -19.675,-73.317a271.263,271.263 0 0 0 -28.825,42.817c-18.479,34.08 -31.341,75.311 -36.327,115.529a108.1,108.1 0 0 1 22.827,31.971c20.979,43.72 3.722,69.376 23,84c27.767,21.064 101.612,-3.3 131,-57z" id="Path_7"/>
+  <path id="svg_1" d="m294.52193,746.33834l0.56913,0l0.17587,-0.54067l0.17587,0.54067l0.56913,0l-0.46044,0.33415l0.17588,0.54067l-0.46044,-0.33416l-0.46044,0.33416l0.17588,-0.54067l-0.46044,-0.33415z" opacity="undefined" fill-opacity="null" stroke-opacity="null" stroke-dasharray="null" stroke-width="null" stroke="null" fill="url(#linear-gradient-3)"/>
+  <path id="svg_2" d="m439.79309,400.07554l0.56913,0l0.17587,-0.54067l0.17587,0.54067l0.56913,0l-0.46044,0.33415l0.17588,0.54067l-0.46044,-0.33416l-0.46044,0.33416l0.17588,-0.54067l-0.46044,-0.33415z" opacity="undefined" fill-opacity="null" stroke-opacity="null" stroke-dasharray="null" stroke-width="null" stroke="null" fill="url(#linear-gradient-3)"/>
+  <path id="svg_3" d="m236.81146,-27.77789l0.56913,0l0.17587,-0.54067l0.17587,0.54067l0.56913,0l-0.46044,0.33415l0.17588,0.54067l-0.46044,-0.33416l-0.46044,0.33416l0.17588,-0.54067l-0.46044,-0.33415z" opacity="undefined" fill-opacity="null" stroke-opacity="null" stroke-dasharray="null" stroke-width="null" stroke="null" fill="url(#linear-gradient-3)"/>
+  <ellipse fill="#ffffff" cx="54.57228" cy="728.9486" id="svg_4" rx="4.60612" ry="4.52818" opacity="0.2" stroke="null" transform="rotate(2.60254 54.5723 728.949)"/>
+ </g>
+</svg>
